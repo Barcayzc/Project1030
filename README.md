@@ -27,7 +27,7 @@ The dataset comprises **110,204 hospital admissions** from Norway (2011–2012).
 - **Episode Number** (categorical)  
 
 If the dataset is large, download it from:  
-[Dataset Link](<insert_link_here>)
+[Dataset Link](<https://archive.ics.uci.edu/dataset/827/sepsis+survival+minimal+clinical+records>)
 
 ---
 
