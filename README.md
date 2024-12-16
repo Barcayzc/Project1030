@@ -6,10 +6,7 @@ This project predicts patient survival outcomes for sepsis-related hospital admi
 1. [Overview](#overview)
 2. [Dataset](#dataset)
 3. [Installation](#installation)
-4. [Project Structure](#project-structure)
-5. [Usage](#usage)
-6. [Results](#results)
-7. [License](#license)
+
 
 ---
 
