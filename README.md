@@ -36,4 +36,4 @@ To set up this project, ensure you have **Python 3.8+**. Install the required pa
 
 ```bash
 conda env create -f environment.yaml
-conda activate sepsis-ml
+conda activate data1030
