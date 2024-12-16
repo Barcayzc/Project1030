@@ -1,0 +1,79 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Data and results directories
+data/*
+!data/README.md
+figures/*
+!figures/README.md
+results/*
+!results/README.md
+
+# Reports
+report/*
+!report/README.md
+!report/*.pdf
+
+# Python environment files
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+environment.yaml
+*.lock
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Python packaging
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# Coverage
+.coverage
+htmlcov/
+.coverage.*
+
+# Mypy and Pytest
+.mypy_cache/
+.pytest_cache/
+
+# Static type analyzers
+.pyre/
+.pytype/
+
+# Others
+*.pkl
+*.pickle
+*.csv
+*.tsv
+*.json
+*.h5
+*.hdf5
+*.db
+*.sqlite3
+*.xlsx
+
+# Large files and model weights
+models/
+*.h5
+*.pt
+*.onnx
+*.weights
